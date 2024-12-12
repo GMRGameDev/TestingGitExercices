@@ -1,2 +1,0 @@
-# TestingGitExercices
-Practice Excercices
