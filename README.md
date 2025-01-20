@@ -1,0 +1,3 @@
+- This repository serves as an AI-oriented study project using the Jupyter Notebook framework
+- In it you will find exercices using libraries such as Numpy, Pandas and PyTorch
+- I will workin on it and update it with new code and projects every weeks
